@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是 BWM，会 Go / JavaScript，信代码的艺术。
+我是 BWM，会 Go / TypeScript，信代码的艺术。
 
 <table width="960px">
 
