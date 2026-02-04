@@ -7,11 +7,11 @@ I'm a backend engineer focused on Web3 and high-performance systems. I combine o
 ## 🛠 Skills
 
 - **Core languages**: Go, Rust, TypeScript
-- **Blockchain / Web3**: EVM, go-ethereum (Geth), JSON-RPC, Layer-2 protocols such as Arbitrum and Base
-- **AI / LLMs**: OpenAI (GPT family), Qwen, Dify workflows, prompt engineering
+- **Blockchain / Web3**: EVM, go-ethereum (Geth), JSON-RPC
+- **AI / LLMs**: OpenAI (GPT family),Dify workflows, prompt engineering
 - **Databases & Caching**: PostgreSQL, Redis (Pub/Sub, caching)
 - **Infrastructure**: Docker, Prometheus
-- **Real-time & Data Streams**: WebSocket, Moralis Streams, webhook handling
+- **Real-time & Data Streams**: WebSocket, webhook handling
 
 ## 📁 Projects & Work
 
